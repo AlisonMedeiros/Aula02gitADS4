@@ -1,2 +1,2 @@
 # Aula02gitADS3
-teste
+Repositorio criado para exemplo aula git da unifaat
